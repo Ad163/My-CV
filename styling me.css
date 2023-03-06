@@ -1,0 +1,185 @@
+body {
+    background-color: rgb(248, 248, 255);
+    margin: 0 auto;
+    text-align: center;
+    font-family: "Merriweather", cursive;
+    color: #40514E;
+}
+
+/* *************Images Used******************** */
+.Angelic {
+    height: 50px;
+    position: relative;
+    left: 30%;
+    top: 20px;
+}
+
+
+.Mountain {
+    height: 200px;
+    width: 600px;
+    /* position: absolute; */
+}
+.bottom-Angelic {
+    position: absolute;
+    right: 80%;
+    height: 50px;
+}
+
+/* **************Images Used*************************** */
+h1 {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-block-start: 0%;
+    margin-block-end: 0%;
+    font-family: "Sacramento", cursive;
+    
+    
+}
+
+.top-container{
+    background-color: rgba(247, 239, 239, 0.589);
+    position: relative;
+    padding: 100px;
+   
+}
+
+.mid-container {
+    background-color: rgb(248, 248, 255);
+    /* height: 200px;
+    width: 200px; */
+    margin: 100px auto 20px auto;
+    margin-bottom: 10px;
+
+}
+.excel {
+    width: 30%;
+    float: left;
+    padding: 30px;
+}
+.data {
+    width: 30%;
+    float: right;
+    padding: 30px;
+}
+.bottom-container {
+    background-color: rgb(156, 136, 136);
+    padding: 30px 10px;
+
+}
+
+.henry {
+    height: 200px;
+    width: 200px;
+    border-radius: 90%;
+}
+.hr {
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-width: 5px;
+    border-color: gray;
+    margin: 100px auto;
+}
+
+/* ************* Headers*********************** */
+
+.h1 {
+    color: #66BFBF;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    line-height: 1;
+}
+.h2 {
+    color: rgb(117, 117, 131);
+    font-family: "Montserrat", sans-serif;
+    font-size: 2rem;
+    font-weight: normal;
+    line-height: 2;
+}
+.h3 {
+    color: #11999E;
+    font-family: "Sacramento", cursive;
+    font-size: 1.5rem;
+}
+
+/* ****************Headers**************************** */
+
+.skill-row1 {
+    width: 51%;
+    margin: 100px auto 100px auto;
+    text-align: right;
+   
+}
+
+.skill-row {
+    width: 51%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+   
+}
+b {
+    color: red;
+}
+
+
+/* .p1 {
+    clear: left;
+}
+
+.p2 {
+    clear: right;
+} */
+.contactme {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top,#11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top,#11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px;
+    text-decoration: none;
+    
+}
+
+.contactme:hover {
+    background-image: -webkit-linear-gradient(top,#30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top,#30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top,#30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom,#30e3cb, #2bc4ad);
+    text-decoration: none;
+}
+.about-me {
+    width: 33%;
+    margin: auto;
+}
+p {
+    line-height: 2;
+}
+.contact-me {
+    width: 40%;
+    margin: 40px auto 60px;
+    
+    
+}
+a {
+    color: #97e2e2;
+    font-family: "Montserrat", sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover {
+    color: #66BFBF;
+}
+.message {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
